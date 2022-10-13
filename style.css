@@ -6,6 +6,17 @@
 
 body {
     background-color: #434752;
+    display: flex;
+
+
+}
+
+footer img {
+    width: 17rem;
+    height: 25rem;
+    margin-top: 5rem;
+    position: relative;
+    right: 21.6rem;
 }
 
 main {
@@ -13,7 +24,8 @@ main {
     width: 25rem;
     height: 25rem;
     background-color: white;
-    margin-top: 3rem;
+    margin-top: 5rem;
+
 }
 
 .section {
