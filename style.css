@@ -7,24 +7,29 @@
 body {
     background-color: #434752;
     display: flex;
+}
 
+aside {
+    width: 42rem;
+    height: 25rem;
+    padding-top: 7rem;
+    display: flex;
+    margin: auto;
 
 }
+
 
 footer img {
     width: 17rem;
     height: 25rem;
-    margin-top: 5rem;
-    position: relative;
     right: 21.6rem;
 }
 
 main {
-    margin: auto;
+
     width: 25rem;
     height: 25rem;
     background-color: white;
-    margin-top: 5rem;
 
 }
 
