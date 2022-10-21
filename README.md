@@ -1,5 +1,5 @@
-# cyberusa
-*An implementation of cybergate clone with html and css*
+# loop1step6
+*An implementation of loop1step6 clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Features
